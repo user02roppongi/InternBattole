@@ -3,6 +3,8 @@ using System.Collections;
 using System.Collections.Generic;
 using Common;
 
+//コミットテスト２
+
 public class LongDistance : MonoBehaviour {
 	MiddleDistance middleDistance;
 	//GameRoot gameRoot;
